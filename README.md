@@ -1,6 +1,7 @@
-# Denoising-Deblurring
+# Denoising and Deblurring Signals:
 
-To get original signal X[n] from a given distorted signal Y[n]
+• Used concepts of Convolution, Fourier Transform, Inverse Fourier
+Transform to denoise and deblur a given distorted signal.
 
-Here we are going to use very simple basic concepts learned in this course like 2 D signals,
-Convolution Fourier Transform Inverse Fourier Transform and Sampling etc. to solve this problem.
+• Conducted comparative study about effect of first denoise and then
+deblur and vice-versa. (Applications in Communication Technology)
